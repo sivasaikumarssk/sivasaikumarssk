@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **sivasaikumar.pinjala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing](https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing)
+- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing](https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 
 
 - 📫 How to reach me mobile: 9573654644 email: sivasaikumar.pinjala@gmail.com
-- Here is my Portfolio : 
+- Here is my Portfolio : sivasaikumar-portfolio.netlify.app
 
