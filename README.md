@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 📫 How to reach me mobile: 9573654644 email: sivasaikumar.pinjala@gmail.com
-- Here is my Portfolio : sivasaikumar-portfolio.netlify.app
+- Here is my Portfolio : <a href="http://sivasaikumar-portfolio.netlify.app">Portfolio</a>
 
 
 
