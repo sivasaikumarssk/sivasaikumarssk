@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **sivasaikumar.pinjala@gmail.com**
 - Here is my Portfolio : <a href="http://sivasaikumar-portfolio.netlify.app" target="_blank">Siva sai kumar</a>
 <br/>
-- 📄 Know about my experiences (Resume) <a href="https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing">Sivs sai kumar Pinjala</a>(https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing)
+- 📄 Know about my experiences (Resume) <a href="https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing">Sivs sai kumar Pinjala</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,31 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
+
+## 📊 Github Stats
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/sivasaikumarssk/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sivasaikumarssk&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasaikumarssk&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sivasaikumarssk" height="192px"/>
+  <br/>
+  
+  </p>
+
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/sivasaikumarssk"><img alt="sivasaikumarssk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sivasaikumarssk&custom_title=sivasaikumarssk's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasulaarunteja&layout=compact&theme=algolia" alt="kasulaarunteja" /></a> </p>
 
 - 📫 How to reach me mobile: 9573654644 email: sivasaikumar.pinjala@gmail.com
 
