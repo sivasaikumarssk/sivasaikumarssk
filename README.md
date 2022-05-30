@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasulaarunteja&layout=compact&theme=algolia" alt="kasulaarunteja" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivasaikumarssk&layout=compact&theme=algolia" alt="sivasaikumarssk" /></a> </p>
 
 - 📫 How to reach me mobile: 9573654644 email: sivasaikumar.pinjala@gmail.com
 
