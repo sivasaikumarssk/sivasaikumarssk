@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sivasaikumar.pinjala@gmail.com**
-- Here is my Portfolio : <a href="http://sivasaikumar-portfolio.netlify.app" target="_blank">Siva sai kumar</a>
+- Here is my Portfolio : <a href="http://sivasaikumar-portfolio.netlify.app" target="_blank">Siva sai kumar Pinjala</a>
 <br/>
-- 📄 Know about my experiences (Resume) <a href="https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing">Sivs sai kumar Pinjala</a>
+- 📄 Know about my experiences (Resume) <a href="https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing">Siva sai kumar Pinjala</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
