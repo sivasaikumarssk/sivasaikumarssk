@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **sivasaikumar.pinjala@gmail.com**
 - Here is my Portfolio : <a href="http://sivasaikumar-portfolio.netlify.app" target="_blank">Siva sai kumar Pinjala</a>
 <br/>
-- 📄 Know about my experiences (Resume) <a href="https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing">Siva sai kumar Pinjala</a>
+- 📄 Know about my experiences (Resume) <a href="[https://drive.google.com/file/d/1GZV6wAdTIrGXJROAYMv-kXux5TW9MDH0/view?usp=sharing](https://drive.google.com/drive/folders/1sjFV76bduP1doY5AoN1UhoUL1YZOC4Ds?usp=sharing)" target="_blank">Siva sai kumar Pinjala</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
