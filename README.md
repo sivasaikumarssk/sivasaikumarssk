@@ -13,7 +13,7 @@ development. Currently working as Associate Software Engineer at Wishtree
 Technologies, With a passion for user-centric products and creative web design,
 I'm currently leading the development of a dynamic Student Information
 System. Eager to join a forward-thinking company to contribute my skills, learn,
-and create impactful digital solutions."
+and create impactful digital solutions." <br/>
 - 🌱 I’m currently Mastering **React**
 -  Currently working as a Software engineer at Wishtree Technologies, Pune
 - 📫 How to reach me **sivasaikumar.pinjala@gmail.com**
