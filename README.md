@@ -14,10 +14,10 @@ Technologies, With a passion for user-centric products and creative web design,
 I'm currently leading the development of a dynamic Student Information
 System. Eager to join a forward-thinking company to contribute my skills, learn,
 and create impactful digital solutions." <br/>
-- 🌱 I’m currently Mastering **React**
--  Currently working as a Software engineer at Wishtree Technologies, Pune
-- 📫 How to reach me **sivasaikumar.pinjala@gmail.com**
-- Here is my Portfolio : <a href="http://sivasaikumar-portfolio.netlify.app" target="_blank">Siva sai kumar Pinjala</a>
+- 🌱 I’m currently Mastering **React** <br/>
+-  Currently working as a Software engineer at Wishtree Technologies, Pune <br/>
+- 📫 How to reach me **sivasaikumar.pinjala@gmail.com** <br/>
+- Here is my Portfolio : <a href="http://sivasaikumar-portfolio.netlify.app" target="_blank">Siva sai kumar Pinjala</a> 
 <br/>
 - 📄 Know about my experiences (Resume) <a href="https://drive.google.com/file/d/1fnyUqFDa0dZztdSsXtEEq_GHMXUroxZG/view?usp=sharing" target="_blank">Siva sai kumar Pinjala</a>
 
